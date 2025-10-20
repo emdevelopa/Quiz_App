@@ -32,8 +32,8 @@ A modern, interactive quiz game built with React, TypeScript, and Tailwind CSS. 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/quiz-master.git
-cd quiz-master
+git clone https://github.com/emdevelopa/Quiz_App
+cd Quiz_App
 ```
 
 2. Install dependencies:
@@ -185,7 +185,7 @@ This project follows professional git practices:
 
 ## 👤 Author
 
-Created by [Your Name] for Web3Bridge Cohort XIII Pre-Qualification Exercise
+Created by Gyimah Emmanuel. for Web3Bridge Cohort XIII Pre-Qualification Exercise
 
 ## 📄 License
 
