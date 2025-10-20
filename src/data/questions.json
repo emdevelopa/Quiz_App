@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language"
+    ],
+    "correctAnswer": 0,
+    "category": "Web Development",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "Which programming language is known as the 'language of the web'?",
+    "options": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C++"
+    ],
+    "correctAnswer": 2,
+    "category": "Web Development",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "What is the purpose of CSS?",
+    "options": [
+      "To add interactivity to websites",
+      "To style and layout web pages",
+      "To manage databases",
+      "To create server-side logic"
+    ],
+    "correctAnswer": 1,
+    "category": "Web Development",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is NOT a JavaScript framework?",
+    "options": [
+      "React",
+      "Angular",
+      "Django",
+      "Vue"
+    ],
+    "correctAnswer": 2,
+    "category": "Web Development",
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Programming Integration",
+      "Automated Process Integration",
+      "Application Process Interface"
+    ],
+    "correctAnswer": 0,
+    "category": "Programming",
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "question": "Which HTTP method is used to retrieve data from a server?",
+    "options": [
+      "POST",
+      "PUT",
+      "GET",
+      "DELETE"
+    ],
+    "correctAnswer": 2,
+    "category": "Web Development",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "question": "What is the correct way to declare a variable in modern JavaScript?",
+    "options": [
+      "var myVariable = 10",
+      "let myVariable = 10",
+      "const myVariable = 10",
+      "Both B and C are correct"
+    ],
+    "correctAnswer": 3,
+    "category": "JavaScript",
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "question": "Which of these is a NoSQL database?",
+    "options": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Oracle"
+    ],
+    "correctAnswer": 2,
+    "category": "Databases",
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "question": "What does the 'useState' hook do in React?",
+    "options": [
+      "Manages component lifecycle",
+      "Adds state to functional components",
+      "Fetches data from APIs",
+      "Handles routing"
+    ],
+    "correctAnswer": 1,
+    "category": "React",
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "question": "Which CSS property is used to change text color?",
+    "options": [
+      "font-color",
+      "text-color",
+      "color",
+      "text-style"
+    ],
+    "correctAnswer": 2,
+    "category": "CSS",
+    "difficulty": "easy"
+  }
+]
