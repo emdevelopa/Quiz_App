@@ -16,7 +16,7 @@ A modern, interactive quiz game built with React, TypeScript, and Tailwind CSS. 
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link-here.vercel.app)
+<!-- [View Live Demo](https://your-demo-link-here.vercel.app) -->
 
 ## 🛠️ Technologies Used
 
